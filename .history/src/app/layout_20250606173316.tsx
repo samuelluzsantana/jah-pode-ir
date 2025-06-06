@@ -30,6 +30,14 @@ export const metadata: Metadata = {
     ],
     type: "website",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Já pode ir embora?",
+    description:
+      "Estagiário, CLT ou PJ? Descubra se seu expediente já acabou — com animações, som e humor!",
+    images: ["https://i.imgur.com/y1UytS4.gif"],
+    creator: "@samuelluzsantana", // se tiver Twitter
+  },
 };
 
 export default function RootLayout({

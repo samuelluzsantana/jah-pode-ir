@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Descubra de forma divertida e rápida se você já completou sua jornada de trabalho. Ideal para estagiários, CLTs e PJs. Com ícones animados, confete, som e até Rickroll!",
   icons: {
-    icon: "/oaaicon.png", // substitua se tiver um favicon diferente
+    icon: "/adsqwewqwe.png", // substitua se tiver um favicon diferente
   },
   openGraph: {
     title: "Já pode ir embora?",

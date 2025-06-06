@@ -8,11 +8,11 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Jah pode ir embora?",
+  title: "Já pode ir embora?",
   description:
     "Descubra de forma divertida e rápida se você já completou sua jornada de trabalho. Ideal para estagiários, CLTs e PJs. Com ícones animados, confete, som e até Rickroll!",
   icons: {
-    icon: "/oaaicon.png", // substitua se tiver um favicon diferente
+    icon: "/favicon.ico", // substitua se tiver um favicon diferente
   },
   openGraph: {
     title: "Já pode ir embora?",
@@ -29,6 +29,14 @@ export const metadata: Metadata = {
       },
     ],
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Já pode ir embora?",
+    description:
+      "Estagiário, CLT ou PJ? Descubra se seu expediente já acabou — com animações, som e humor!",
+    images: ["https://i.imgur.com/y1UytS4.gif"],
+    creator: "@samuelluzsantana", // se tiver Twitter
   },
 };
 
