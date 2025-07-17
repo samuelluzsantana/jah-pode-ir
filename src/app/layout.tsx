@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Descubra de forma divertida e rápida se você já completou sua jornada de trabalho. Ideal para estagiários, CLTs e PJs. Com ícones animados, confete, som e até Rickroll!",
   icons: {
-    icon: "/oaaicon.png", // substitua se tiver um favicon diferente
+    icon: "/jah-pode-ir.icon.svg", // substitua se tiver um favicon diferente
   },
   openGraph: {
     title: "Já pode ir embora?",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     siteName: "Já pode ir embora?",
     images: [
       {
-        url: "https://i.imgur.com/y1UytS4.gif", // ou uma imagem .jpg/.png otimizada
+        url: "https://i.imgur.com/Ksmz5HJ.png", // ou uma imagem .jpg/.png otimizada
         width: 1200,
         height: 630,
         alt: "Já pode ir embora?",
